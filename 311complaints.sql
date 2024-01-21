@@ -38,5 +38,3 @@
 -- FROM complaints
 -- GROUP BY source, priority
 -- ORDER BY source, count DESC;
-
--- What are the most to least popular days of the week for complaints?
